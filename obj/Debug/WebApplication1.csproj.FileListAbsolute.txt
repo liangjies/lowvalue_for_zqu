@@ -1,0 +1,14 @@
+C:\Users\liangjies\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\liangjies\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\bin\WebApplication1.dll
+C:\Users\liangjies\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\bin\WebApplication1.pdb
+C:\Users\liangjies\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\liangjies\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\liangjies\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\bin\WebApplication1.dll.config
+C:\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\bin\WebApplication1.dll
+C:\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\bin\WebApplication1.pdb
+C:\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\liangjies\我的坚果云\ASP.NET\exam4\WebApplication2\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
